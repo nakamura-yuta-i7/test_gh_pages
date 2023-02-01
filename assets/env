@@ -1,0 +1,7 @@
+# dev用の環境変数を追加
+# 注）環境変数を追加したらconfig.jsonに追記が必要
+ZEN_EMPLOYEE_PF_AUTH_V1_URL=http://127.0.0.1:8001/employee-auth/v1
+ZEN_WE_MOBILE_BFF_V1_URL=http://127.0.0.1:8003/we-mobile/v1
+ZEN_ADMIN_URL=http://admin-develop.zenplace.co.jp/admin/
+# dev用がないのでstagingのを使用
+ZEN_WE_MOBILE_V1_URL=https://staging-we-mobile.zenplace.co.jp/
